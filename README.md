@@ -6,6 +6,6 @@
 - Recommendations for keeping cool
 - Curating SF valley things to do
 - Programming events
-- [Food Trucks locating (when/where/reviews)](https://github.com/FreeCodeCampNorthridge/foodtruckapp)
+- [Food Truck App](https://github.com/FreeCodeCampNorthridge/foodtruckapp)
 - CodeBuddy (web/mobile app)
 - An interactive fiction (something similar to a choose your own adventure) with Alexa/Google Home
