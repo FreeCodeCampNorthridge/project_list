@@ -1,2 +1,2 @@
-# project_list
+# Projects
 List of Projects
