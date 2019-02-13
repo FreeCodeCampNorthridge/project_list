@@ -1,11 +1,7 @@
 # FCC Northridge Projects
 
-## Here's a list of potential group projects
-- Crime Map
-- Bar finding map/Non alcoholic nightlife events (or other activities)
-- Recommendations for keeping cool
-- Curating SF valley things to do
-- Programming events
-- Food Truck App
-- CodeBuddy (web/mobile app)
-- An interactive fiction (something similar to a choose your own adventure) with Alexa/Google Home
+## A list of potential group projects 
+### 1. Code Rush
+> Compete real-time to become number one!
+### 2. Hire Me
+> A recruiters pool for top talent!
